@@ -12,7 +12,7 @@ h4 {
 }
 
 .test {
-  color: #0077b3
+  color: #0077b3;
 }
 
 .anotherTest {
@@ -21,6 +21,6 @@ h4 {
 }
 
 .example {
-  color: #006400
+  color: #006400;
   font-family: "fantasy";
 }
